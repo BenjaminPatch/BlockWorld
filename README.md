@@ -10,7 +10,7 @@ A basic 2D top-down RPG
 - Exception handling, file IO
 - Graphical User Interface design
 ### Description
-[embed]https://i.imgur.com/oXNicjc.png[/embed]
+![alt text](https://i.imgur.com/oXNicjc.png)
 ### Getting Started
 TODO
 ##### Prerequisites
