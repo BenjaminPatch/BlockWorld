@@ -10,16 +10,13 @@ A basic 2D top-down RPG
 - Exception handling, file IO
 - Graphical User Interface design
 ### Description
-![alt text](https://i.imgur.com/oXNicjc.png)
+![A PDF running through each component of the program](https://i.imgur.com/oXNicjc.png)
 ### Getting Started
-TODO
 ##### Prerequisites
-TODO
+This project was made in IntelliJ, using JDK 8.1.
 ##### Installing
-TODO
-### Running the Tests
-todo
+If you want to run this project outside of intelliJ, simply create a new project with sources in /blockWorldProject/src and /blockWorldProject/test as the existing source files.
 ### Built With
-todo
+IntelliJ, JDK 8.1
 ### Authors
-todo
+Benjamin Patch (myself)
