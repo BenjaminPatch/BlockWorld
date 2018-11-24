@@ -9,6 +9,8 @@ A basic 2D top-down RPG
 - Class hierarchies and polymorphism
 - Exception handling, file IO
 - Graphical User Interface design
+### Description
+[embed]https://imgur.com/a/0gF2pXV[/embed]
 ### Getting Started
 TODO
 ##### Prerequisites
